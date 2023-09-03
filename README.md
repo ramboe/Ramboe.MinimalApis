@@ -65,7 +65,7 @@ namespace WebApplication1.Endpoints
 
 Inside Program.cs add the Endpoints to the services by using the folling lines  
 
-![]([https://clemenskrusenetmedia.blob.core.windows.net/github/Ag2gdzqsA5.png](https://raw.githubusercontent.com/ramboe/Ramboe.MinimalApis/193065fec7b6f68139cd3a433abfa8583a2a3240/images/Ag2gdzqsA5.png)  
+![](https://raw.githubusercontent.com/ramboe/Ramboe.MinimalApis/193065fec7b6f68139cd3a433abfa8583a2a3240/images/Ag2gdzqsA5.png)  
 
 ```c#
 using Ramboe.MinimalApis;
