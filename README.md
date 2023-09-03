@@ -8,7 +8,7 @@ With this package you can outsource your asp.net core minimal api endpoints to d
 
 When starting up the web service, all URLs of the IEndpoints are automatically mapped and all endpoints are supplied with the services from the Dependency Injection Container:  
 
-![]([https://clemenskrusenetmedia.blob.core.windows.net/github/Ag2gdzqsA5.png](https://raw.githubusercontent.com/ramboe/Ramboe.MinimalApis/193065fec7b6f68139cd3a433abfa8583a2a3240/images/Ag2gdzqsA5.png)
+![](https://raw.githubusercontent.com/ramboe/Ramboe.MinimalApis/193065fec7b6f68139cd3a433abfa8583a2a3240/images/Ag2gdzqsA5.png)
 
 ## Installation  
 
